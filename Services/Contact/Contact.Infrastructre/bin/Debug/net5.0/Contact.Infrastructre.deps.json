@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Contact.Infrastructre/1.0.0": {
+        "dependencies": {
+          "Contact.Model": "1.0.0"
+        },
+        "runtime": {
+          "Contact.Infrastructre.dll": {}
+        }
+      },
+      "Contact.Model/1.0.0": {
+        "runtime": {
+          "Contact.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Contact.Infrastructre/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Contact.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
